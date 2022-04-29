@@ -1,4 +1,4 @@
-:imagesdir: Image12
+:imagesdir: images
 :toc:
 :toc-title: Оглавление
 
