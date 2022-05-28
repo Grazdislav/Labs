@@ -616,3 +616,6 @@ private:
 
 image::результат.jpg[]
 Рисунок 11 - Скриншот из Terminal
+
+image::plata_rabota.gif[]
+Рисунок 12 - Работа платы
